@@ -10,9 +10,17 @@ def min_operations(s):
     return (count + 1) // 2
 
 
-# Ejemplo de uso
+# Leer el número de casos de prueba
 t = int(input())
+
+# Procesar cada caso de prueba
 for i in range(t):
+    # Leer la longitud de la cadena y la cadena en cada caso de prueba
     n = input()
     cad = input()
-    print(min_operations(cad))
+    
+    # Llamar a la función min_operations para obtener la cantidad mínima de operaciones necesarias para hacer que la cadena se alterne
+    result = min_operations(cad)
+    
+    # Imprimir el resultado para cada caso de prueba
+    print(result)
