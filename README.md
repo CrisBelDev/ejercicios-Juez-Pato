@@ -16,10 +16,6 @@ JvUmsa es un juez virtual que presenta problemas de programación para que los e
 
 El repositorio contiene varias carpetas, cada una de las cuales representa una solución diferente para un problema específico. Dentro de cada carpeta se encuentra el código fuente de la solución, así como cualquier archivo de entrada o salida necesario para probar la solución.
 
-## Cómo utilizar las soluciones
-
-Para utilizar cualquiera de las soluciones, simplemente navega hasta la carpeta correspondiente y revisa el código fuente. Puedes ejecutar el código en tu máquina local, utilizando el lenguaje de programación en el que está escrito.
-
 ## Contribuciones
 
 ¡Todas las contribuciones son bienvenidas! Si tienes una solución diferente a la presentada aquí o si deseas mejorar una solución existente, no dudes en hacer una solicitud de extracción.
