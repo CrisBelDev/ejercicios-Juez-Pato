@@ -4,7 +4,7 @@ Autor: Cristian Abel
 Fecha: 7 de abril de 2023
 
 """
-def medianda(lista):
+def mediana(lista):
     lista.sort()
     n = len(lista)
     if n == 1:
@@ -26,6 +26,6 @@ while True:
     try:
         n = input()
         lista = list(map(int ,input().split()))
-        medianda(lista)
+        mediana(lista)
     except EOFError:
         break
