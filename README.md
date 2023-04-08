@@ -1,5 +1,6 @@
 # Ejercicios-juez-pato
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=CrisBelDev.ejercicios-Juez-Pato)
+
 ![](./media/juez-patito2.svg)
 
 URL de la plataforma : https://jv.umsa.bo
