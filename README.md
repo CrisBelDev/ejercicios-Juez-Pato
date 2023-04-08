@@ -1,5 +1,4 @@
 # Ejercicios-juez-pato
-![Visitas](https://shields.io/badge/dynamic/json?color=green&label=Visitas&query=value&url=https://api.countapi.xyz/hit/CrisBelDev/ejercicios-Juez-Pato)
 
 ![](./media/juez-patito2.svg)
 
