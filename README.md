@@ -1,5 +1,5 @@
 # Ejercicios-juez-pato
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=CrisBelDev.ejercicios-Juez-Pato)
+[![Mi contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=CrisBelDev.ejercicios-Juez-Pato)](https://github.com/CrisBelDev/ejercicios-Juez-Pato)
 
 ![](./media/juez-patito2.svg)
 
