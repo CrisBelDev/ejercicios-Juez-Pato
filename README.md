@@ -1,17 +1,5 @@
 # Ejercicios-juez-pato
 ![Visitas](https://shields.io/badge/dynamic/json?color=green&label=Visitas&query=value&url=https://api.countapi.xyz/hit/CrisBelDev/ejercicios-Juez-Pato)
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu_usuario_github&label=Visitas&color=green&style=plastic" alt="Contador de visitas" />
-</p>
-
-<style>
-  img[src*="https://komarev.com/ghpvc/"] {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    width: 150px;
-  }
-</style>
-
 
 ![](./media/juez-patito2.svg)
 
