@@ -3,9 +3,9 @@
 ![](./media/juez-patito2.svg)
 URL de la plataforma : https://jv.umsa.bo
 
-# Tecnologías:
+
 <div style="display: inline_block">
-  <p align="center">
+  <p>Tecnologías:
     <a href="#">
       <img align="center" alt="Logo do Python" height="50" width="60" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
