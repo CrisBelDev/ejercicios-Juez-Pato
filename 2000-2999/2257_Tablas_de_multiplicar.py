@@ -1,6 +1,4 @@
-a , b = map(int,input().split())
-lista =[]
+a , b = map(int, input().split())
 for i in range(b):
-    res = a * (i+1) 
-    lista.append(res)
-print(*lista,"")
+    multiplicacion = a * (i+1) 
+    print(multiplicacion, end=" ")
