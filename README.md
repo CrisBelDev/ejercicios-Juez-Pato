@@ -1,8 +1,22 @@
 # Ejercicios-juez-pato
 
 ![](./media/juez-patito2.svg)
-
 URL de la plataforma : https://jv.umsa.bo
+
+# Tecnologías:
+<div style="display: inline_block">
+  <p align="center">
+    <a href="#">
+      <img align="center" alt="Logo do Python" height="50" width="60" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do C++" height="50" width="60" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Java" height="50" width="60" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    </a>
+  </p>
+</div>
 
 
 # Ejercicios de la plataforma JVUMSA - JUEZ PATITO
