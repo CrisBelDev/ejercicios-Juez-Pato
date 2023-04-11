@@ -1,5 +1,13 @@
 # Ejercicios-juez-pato
 
+<p align="center">
+    <a href="https://github.com/CrisBelDev/CrisBelDev"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/CrisBelDev/CrisBelDev/graphs/contributors"><img src="https://img.shields.io/github/contributors/CrisBelDev/CrisBelDev?color=blue"></a>
+    <a href="https://github.com/CrisBelDev/CrisBelDev/stargazers"><img src="https://img.shields.io/github/stars/CrisBelDev/CrisBelDev.svg?logo=github"></a>
+    <a href="https://github.com/CrisBelDev/CrisBelDev/network/members"><img src="https://img.shields.io/github/forks/CrisBelDev/CrisBelDev.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=CrisBelDev" alt="visitors"/>   
+</p>
+
 ![](./media/juez-patito2.svg)
 
 URL de la plataforma : https://jv.umsa.bo
