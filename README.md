@@ -1,6 +1,7 @@
 # Ejercicios-juez-pato
 
 ![](./media/juez-patito2.svg)
+
 URL de la plataforma : https://jv.umsa.bo
 
 # Tecnologías:
