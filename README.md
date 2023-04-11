@@ -1,10 +1,10 @@
 # Ejercicios-juez-pato
 
 <p align="center">
-    <a href="https://github.com/CrisBelDev/CrisBelDev"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/CrisBelDev/CrisBelDev/graphs/contributors"><img src="https://img.shields.io/github/contributors/CrisBelDev/CrisBelDev?color=blue"></a>
-    <a href="https://github.com/CrisBelDev/CrisBelDev/stargazers"><img src="https://img.shields.io/github/stars/CrisBelDev/CrisBelDev.svg?logo=github"></a>
-    <a href="https://github.com/CrisBelDev/CrisBelDev/network/members"><img src="https://img.shields.io/github/forks/CrisBelDev/CrisBelDev.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/CrisBelDev/ejercicios-Juez-Pato"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/CrisBelDev/ejercicios-Juez-Pato/graphs/contributors"><img src="https://img.shields.io/github/contributors/CrisBelDev/ejercicios-Juez-Pato?color=blue"></a>
+    <a href="https://github.com/CrisBelDev/ejercicios-Juez-Pato/stargazers"><img src="https://img.shields.io/github/stars/CrisBelDev/ejercicios-Juez-Pato.svg?logo=github"></a>
+    <a href="https://github.com/CrisBelDev/ejercicios-Juez-Pato/network/members"><img src="https://img.shields.io/github/forks/CrisBelDev/ejercicios-Juez-Pato.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=CrisBelDev" alt="visitors"/>   
 </p>
 
