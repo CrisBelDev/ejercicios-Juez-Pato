@@ -1,5 +1,5 @@
 # Ejercicios-juez-pato
-
+## Exercises Judge duck
 <p align="center">
     <a href="https://github.com/CrisBelDev/ejercicios-Juez-Pato"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/CrisBelDev/ejercicios-Juez-Pato/graphs/contributors"><img src="https://img.shields.io/github/contributors/CrisBelDev/ejercicios-Juez-Pato?color=blue"></a>
