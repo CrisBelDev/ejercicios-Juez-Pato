@@ -1,5 +1,5 @@
-# Ejercicios-juez-pato
-
+# Ejercicios juez pato
+## Exercises Judge duck
 <p align="center">
     <a href="https://github.com/CrisBelDev/ejercicios-Juez-Pato"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/CrisBelDev/ejercicios-Juez-Pato/graphs/contributors"><img src="https://img.shields.io/github/contributors/CrisBelDev/ejercicios-Juez-Pato?color=blue"></a>
@@ -29,12 +29,6 @@ URL de la plataforma : https://jv.umsa.bo
 
 
 # Ejercicios de la plataforma JVUMSA - JUEZ PATITO
-
-Este repositorio contiene soluciones a varios ejercicios presentados en el Juez Virtual de la Universidad Mayor de San Andrés (JvUmsa). Cada carpeta contiene una solución diferente para un problema específico.
-
-## ¿Qué es JvUmsa?
-
-JvUmsa es un juez virtual que presenta problemas de programación para que los estudiantes puedan resolverlos y mejorar sus habilidades en programación. Los problemas cubren diferentes áreas, como estructuras de datos, algoritmos, matemáticas y más.
 
 ## Contenido del repositorio
 
