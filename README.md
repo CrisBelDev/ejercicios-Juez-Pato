@@ -29,7 +29,7 @@ URL de la plataforma : https://jv.umsa.bo
 
 
 # Ejercicios de la plataforma JVUMSA - JUEZ PATITO
-
+![https://github.com/CrisBelDev](./media/plataforma.png)
 ## Contenido del repositorio
 
 El repositorio contiene varias carpetas, cada una de las cuales representa una solución diferente para un problema específico. Dentro de cada carpeta se encuentra el código fuente de la solución, así como cualquier archivo de entrada o salida necesario para probar la solución.
