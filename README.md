@@ -36,7 +36,7 @@ El repositorio contiene varias carpetas, cada una de las cuales representa una s
 
 ## Contribuciones
 
-¡Todas las contribuciones son bienvenidas! Si tienes una solución diferente a la presentada aquí o si deseas mejorar una solución existente, no dudes en hacer una solicitud de extracción.
+¡Todas las contribuciones son bienvenidas! Si tienes una solución diferente a la presentada aquí o si deseas mejorar una solución existente, no dudes en enviar tu solucion.
 
 ## Licencia
 
